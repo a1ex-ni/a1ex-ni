@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Profile README for Github Education access
 <!--
 **a1ex-ni/a1ex-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
